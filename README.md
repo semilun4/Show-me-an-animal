@@ -1,4 +1,4 @@
-# Show-me-an-animal
+# Show-me-an-animal 🐱
 Actividad de introducción a POO con Python.
 
 ## Descripción
