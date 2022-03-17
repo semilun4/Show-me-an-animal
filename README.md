@@ -9,3 +9,4 @@ Actividad de introducción a POO con Python.
 3. Muestra por consola un diseño del animal basado en la decisión del usuario.
 
 Imagen de muestra del programa
+![imagen](https://github.com/semilun4/Show-me-an-animal/blob/main/img/menu.png)
